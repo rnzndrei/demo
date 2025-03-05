@@ -10,6 +10,6 @@ int main(){
         << "Renz Andrei" << endl
         << "Xyrelle Dominique" << endl;
 
-    cout << endl << "Introduction of Members:" << endl;
+    cout << endl << "Introduction of Members:" << endl;//lyrus edit lolol
 
 }
